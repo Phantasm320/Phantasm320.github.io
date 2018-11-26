@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle:
+title: RNEnriquez
+subtitle: Data Scientist
 ---
 
 My name is Phantasm. I have the following qualities:
