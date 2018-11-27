@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recommending services/products for your customers
+title: Recommending services and products for your customers
 subtitle: The assistant buyer App
 tags: [books, shakespeare, test]
 ---
