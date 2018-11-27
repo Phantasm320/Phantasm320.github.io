@@ -1,7 +1,7 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
+title: Recommending services/products for your customers
+subtitle: The assistant buyer App
 tags: [books, shakespeare, test]
 ---
 
