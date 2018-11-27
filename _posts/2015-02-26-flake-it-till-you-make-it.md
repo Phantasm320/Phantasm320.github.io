@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Inventory management using Machine Learning 
-subtitle: Demand forecasting
+title: Demand Forecasting
+subtitle: Inventory management using Machine Learning
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
