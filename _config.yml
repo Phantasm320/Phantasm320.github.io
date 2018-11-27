@@ -23,7 +23,7 @@ description: Data Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Phantasm320.github.io/aboutme.md"
+  About Me: "aboutme"
  # Resources: "Tell me more"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
